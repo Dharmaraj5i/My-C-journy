@@ -1,2 +1,2 @@
-# My-C-journy
+# My-C-Journey
 Practicing logic for BCA 
